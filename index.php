@@ -12,5 +12,10 @@ Password:<br/>
 <input type = "submit">
 </form>
 
+<form action="register.php">
+<input type = "button" value = "register">
+<input type = "submit">
+</form>
+
 </body>
 </html>
